@@ -1,4 +1,4 @@
-<p align="center"><img height="120" align="center" src="https://voltbot.xyz/assets/img/logo.png" alt="logo"/></p>
+<p align="center"><img height="120" align="center" src="https://voltbot.xyz/img/logo.png" alt="logo"/></p>
 <h1 align="center">VoltBot</h1>
 <br>
 <p align="center">
